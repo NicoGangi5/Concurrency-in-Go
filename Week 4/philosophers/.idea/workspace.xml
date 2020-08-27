@@ -19,13 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6f9b2f1-f5e0-40af-a243-91666639b5b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Week 4/philosophers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week 4/philosophers/.idea/philosophers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week 4/philosophers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week 4/philosophers/philosophers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week 1/Module 1 Quiz (5-7) VER 6!!.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="00c0a777-632c-4960-b433-5c3e463ef9ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/philosophers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philosophers.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Week 3/goroutine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3/goroutine/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1gapMwETjvxYATufYzJ5nLM4Ljs" />
+  <component name="ProjectId" id="1ggUBrWMqMeRebrtuYICELQ63LE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,11 +55,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="RunManager">
-    <configuration name="go build race_condition/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
-      <module name="race_condition" />
+    <configuration name="go build philosophers/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="philosophers" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="DIRECTORY" />
@@ -84,32 +82,31 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598362683114">
+    <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598535647544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598362683114" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1598364182861">
+    <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598535647544" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1598538280564">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598364182861" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1598364182860">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598538280564" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1598538280563">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598364182860" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1598364182860">
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598538280563" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1598538280562">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598364182860" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1598364182860">
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598538280562" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1598538280564">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598364182860" />
-    <state x="625" y="241" key="search.everywhere.popup" timestamp="1598363201300">
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598538280564" />
+    <state x="625" y="241" key="search.everywhere.popup" timestamp="1598538265328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598363201300" />
+    <state x="625" y="241" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598538265328" />
   </component>
 </project>
