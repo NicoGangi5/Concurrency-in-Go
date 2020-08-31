@@ -71,7 +71,6 @@ func main()  {
 		sorted = append(sorted, part4[i])
 	}
 
-	fmt.Println("No sorted:", sorted)
 	sort.Ints(sorted)
 	fmt.Println("Sorted:", sorted)
 }
